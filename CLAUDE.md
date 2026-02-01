@@ -57,4 +57,9 @@ When modifying agent definitions:
 - Choose agents based on the specific domain expertise needed
 - Use generalist agents for tasks requiring multiple skill sets
 - Consider the Agent Prompt Updater for maintaining the agent collection itself
-- Reference the README.md for the complete agent directory and descriptions
+- Reference the README.md for the complete agent directory and descriptionsI'll help you run a command. However, I need more context about what you'd like to run. This repository contains markdown documentation files for Claude Code agents, so there are no build or test commands to execute.
+Could you clarify what you'd like to run? For example:
+- A specific script or command
+- A development server for another project
+- Tests for a particular codebase
+- Something else entirely
